@@ -4,7 +4,6 @@ def using_until
     x = 0 
     x = x + 1 
     puts "Wingardium Leviosa"
-    x < 10 
     
     
 end
